@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/riscv/riscv-unified-db,205,144
+/riscv/riscv-unified-db/pulls,49,21
+/riscv/riscv-unified-db/issues,43,19
+/riscv/riscv-unified-db/tree/main/spec/std/isa,39,21
+/riscv/riscv-unified-db/tree/main/spec,36,24
+/riscv/riscv-unified-db/tree/main/spec/std,31,19
+/riscv/riscv-unified-db/tree/main/backends/cpp_hart_gen,26,7
+/riscv/riscv-unified-db/tree/main,21,6
+/riscv/riscv-unified-db/tree/main/spec/std/isa/inst,18,14
+/riscv/riscv-unified-db/blob/main/spec/std/isa/ext/Zve32x.yaml,16,3
