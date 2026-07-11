@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/riscv/riscv-unified-db,283,138
+/riscv/riscv-unified-db/pulls,200,33
+/riscv/riscv-unified-db/pull/1882,112,11
+/riscv/riscv-unified-db/issues,107,31
+/riscv/riscv-unified-db/pull/1882/commits,43,3
+/riscv/riscv-unified-db/tree/main/spec,39,18
+/riscv/riscv-unified-db/tree/main/spec/std/isa,36,13
+/riscv/riscv-unified-db/tree/main/spec/std,30,14
+/riscv/riscv-unified-db/tree/main/spec/std/isa/inst,25,16
+/riscv/riscv-unified-db/tree/main,21,14
