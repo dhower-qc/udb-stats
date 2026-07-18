@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/riscv/riscv-unified-db/pulls,865,125
+/riscv/riscv-unified-db,707,303
+/riscv/riscv-unified-db/issues,480,124
+/riscv/riscv-unified-db/pull/1882,78,11
+/riscv/riscv-unified-db/tree/main/spec,71,33
+/riscv/riscv-unified-db/tree/main/spec/std/isa,61,25
+/riscv/riscv-unified-db/pull/1962,54,7
+/riscv/riscv-unified-db/pull/1884,47,4
+/riscv/riscv-unified-db/tree/main/spec/std,41,20
+/riscv/riscv-unified-db/actions/workflows/container-tests.yml,40,1
